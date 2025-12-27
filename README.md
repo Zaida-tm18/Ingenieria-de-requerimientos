@@ -2,8 +2,8 @@
 Carpeta individual: Zaida Melissa Taipe Mora
 
 Carpeta grupal: Grupo E
-•	Beltran Montiel Fred Adrian
+• Beltran Montiel Fred Adrian
 •	Castro Espinoza Kevin Moises
 •	Rivera Suarez Jonathan Javier
-# •	Taipe Mora Zaida Melissa
+•	Taipe Mora Zaida Melissa
 
