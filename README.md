@@ -1,4 +1,4 @@
-# Ingenieria-de-requerimientos, Zaida Taipe, 4to A
+# Ingenieria de requerimientos, Zaida Taipe, 4to A
 Carpeta individual: Zaida Melissa Taipe Mora
 
 Carpeta grupal: Grupo E
