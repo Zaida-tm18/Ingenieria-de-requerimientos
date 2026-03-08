@@ -6,5 +6,4 @@ Individual folder: Zaida Melissa Taipe Mora
 Group folder: Group E
 * Beltran Montiel Fred Adrian
 *	Castro Espinoza Kevin Moises
-*	Rivera Suarez Jonathan Javier
 *	Taipe Mora Zaida Melissa
